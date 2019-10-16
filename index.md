@@ -10,9 +10,37 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Software Engineering and Design:
+### OmniChess
+The video below illustrates the recently added random chess piece game mode:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Relevant files from this project are hosted at the following repo:
+
+
+# Algorithms and Data Structures:
+### Graph Class and Prim's Algorithm
+
+The project is hosted at the following repo:
+
+
+
+# Databases:
+### Javascript/HTML Interface to MongoDB/Python REST Service
+The animation below illustrates the interface's functionality:
+
+The project is hosted at the following repo:
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Header 2
 
