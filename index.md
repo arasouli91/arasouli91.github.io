@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+A professional assessment along with narratives for each piece of work here is found in the FinalProject.doc file hosted in this repo on Github.
 
 # Software Engineering and Design:
 ### OmniChess
