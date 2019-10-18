@@ -40,4 +40,4 @@ https://github.com/arasouli91/mongoInterface/
 
 ![Branching](./Capture.jpg)
 
-<img src="/Capture.jpg">
+<img src="https://github.com/arasouli91/arasouli91.github.io/blob/master/Capture.JPG">
