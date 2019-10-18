@@ -14,7 +14,7 @@ The video below illustrates the recently added random chess piece game mode:
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-Relevant files from this project are hosted at the following repo:
+Relevant files from this project and a narrative are hosted at the following repo:
 https://github.com/arasouli91/omniChess
 
 
@@ -23,7 +23,7 @@ https://github.com/arasouli91/omniChess
 Below are images of test runs:
 
 
-The project is hosted at the following repo:
+The project and narrative are hosted at the following repo:
 https://github.com/arasouli91/graph
 
 
@@ -31,18 +31,13 @@ https://github.com/arasouli91/graph
 ### Javascript/HTML Interface to MongoDB/Python REST Service
 The animation below illustrates the interface's functionality:
 
-The project is hosted at the following repo:
+The project and narrative are hosted at the following repo:
 https://github.com/arasouli91/mongoInterface/
 
 
 
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](Capture.jpg)
 
 
