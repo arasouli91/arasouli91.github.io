@@ -21,8 +21,9 @@ https://github.com/arasouli91/omniChess
 # Algorithms and Data Structures:
 ### Graph Class and Prim's Algorithm
 Below are images of test runs:
-![Branching](./assets/images/t1.jpg)
-![Branching](./assets/images/t2.jpg)
+
+![img1](./assets/images/t1.JPG)
+![img2](./assets/images/t2.JPG)
 
 The project and narrative are hosted at the following repo:
 https://github.com/arasouli91/graph
