@@ -33,6 +33,8 @@ https://github.com/arasouli91/graph
 ### Javascript/HTML Interface to MongoDB/Python REST Service
 The animation below illustrates the interface's functionality:
 
+![img3](./assets/images/SLIDESHOW.gif)
+
 The project and narrative are hosted at the following repo:
 https://github.com/arasouli91/mongoInterface/
 
