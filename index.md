@@ -38,6 +38,6 @@ https://github.com/arasouli91/mongoInterface/
 
 ### Large image
 
-![Branching](./Capture.jpg)
+![Branching](./thumbnail.png)
 
 <img src="https://github.com/arasouli91/arasouli91.github.io/blob/master/Capture.JPG">
