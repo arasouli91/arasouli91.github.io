@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<video controls width="520">
+
+    <source src="/demo2.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. 
 
 [Link to another page](./another-page.html).
@@ -15,7 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 The video below illustrates the recently added random chess piece game mode:
 
 Relevant files from this project are hosted at the following repo:
-
+https://github.com/arasouli91/omniChess
 
 # Algorithms and Data Structures:
 ### Graph Class and Prim's Algorithm
