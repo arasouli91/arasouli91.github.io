@@ -3,6 +3,9 @@ layout: default
 ---
 A professional assessment along with narratives for each piece of work here is found in the FinalProject.doc file hosted in this repo on Github.
 
+# Code Review
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JI7yqfcqsMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Software Engineering and Design:
 ### OmniChess
 The video below illustrates the recently added random chess piece game mode:
